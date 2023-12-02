@@ -1,2 +1,2 @@
 # whosontop project
-# keeps track of all current win streaks
+keeps track of all current win streaks
